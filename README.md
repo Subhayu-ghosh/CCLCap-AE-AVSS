@@ -9,3 +9,5 @@ Next, Train the Video model: **python train_audiovisual.py --video_path PATH_TO_
 Then, Test the VC model: **python test_audio.py --model PATH_TO_MODEL --wav_path PATH_TO_INPUT --output_file PATH_TO_OUTPUT**
 
 Finally, Test the Video model: **python test_audiovisual.py --load_model PATH_TO_MODEL --wav_path PATH_TO_INPUT --output_file PATH_TO_OUTPUT --use_256**
+
+The dataset is available at: https://drive.google.com/drive/folders/1_3ulcWKhs3eq2WPzAnFF-LJuSp1aTqwA?usp=sharing
