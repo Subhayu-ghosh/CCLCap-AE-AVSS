@@ -5,7 +5,7 @@ First, Run:
 pip install -r requirements.txt
 ```
 
-The dataset is available at: https://drive.google.com/drive/folders/1_3ulcWKhs3eq2WPzAnFF-LJuSp1aTqwA?usp=sharing
+The VoxCeleb2 and LRS3-TED datasets are used in this work.
 
 
 
